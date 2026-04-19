@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/921ba543-27f2-4ebe-9f42-2df20cf351da
 
 ---
 
-## ⚙️ Cara Menjalankan
+## Cara Menjalankan
 1. Pastikan Anda memiliki **API Key** dari [newsapi.org](https://newsapi.org/).
 2. Masukkan API Key Anda ke dalam file `network/Secrets.kt`.
 3. Pilih modul `composeApp` di Android Studio.
