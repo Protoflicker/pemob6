@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8424d4af-8771-4dcf-8c67-898da61a7773
+
 # Tugas Praktikum 6: News Reader App (Networking & REST API)
 
 Aplikasi **News Reader** ini dikembangkan menggunakan Kotlin Multiplatform (KMP) dan Compose Multiplatform. Aplikasi ini mendemonstrasikan integrasi REST API menggunakan Ktor Client, manajemen status UI (Loading, Success, Error), serta penerapan arsitektur Repository Pattern.
@@ -50,6 +54,7 @@ Proyek ini diorganisir dengan struktur yang rapi untuk mendukung skalabilitas:
 Video ini menunjukkan alur aplikasi mulai dari *loading*, penampilan data (*success*), navigasi ke detail, fitur *pull to refresh*, hingga penanganan *error* saat tidak ada koneksi internet.
 
 **Tonton Video Demo:**
+https://github.com/user-attachments/assets/3d0e2f14-6abb-4a0c-bc37-442790fb29be=
 
 
 ---
