@@ -50,7 +50,12 @@ Proyek ini diorganisir dengan struktur yang rapi untuk mendukung skalabilitas:
 Video ini menunjukkan alur aplikasi mulai dari *loading*, penampilan data (*success*), navigasi ke detail, fitur *pull to refresh*, hingga penanganan *error* saat tidak ada koneksi internet.
 
 **Tonton Video Demo:**
-https://github.com/user-attachments/assets/8424d4af-8771-4dcf-8c67-898da61a7773
+
+
+
+https://github.com/user-attachments/assets/921ba543-27f2-4ebe-9f42-2df20cf351da
+
+
 
 
 ---
