@@ -34,7 +34,6 @@ Proyek ini diorganisir dengan struktur yang rapi untuk mendukung skalabilitas:
 ---
 
 ## Screenshots & Demo
-*(Ganti placeholder di bawah dengan file yang Anda miliki di repositori)*
 
 | Loading State | Success State (List) | Error State |
 | :---: | :---: | :---: |
